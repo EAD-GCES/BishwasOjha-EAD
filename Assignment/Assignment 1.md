@@ -11,18 +11,18 @@ Government Enterprise Architecture Framework(GEAFs)
 
     GEA may be associated with a single agency or span functional areas transcending several organizational boundaries. Example:- health care, financial management.
 
-    GEAF includes:-
+GEAF includes:-
         A layer architecture framework
         Reference architectures
         Toolkits and guidelines
         GEA standard reference
 
-    GEA architecture resources:-
+GEA architecture resources:-
         Governance and maturity tools
         Information discovery process guidelines and template
         Information assets catalogue template
 
-    GEAF benefits:-
+GEAF benefits:-
 
         Helps to understand your current business
 

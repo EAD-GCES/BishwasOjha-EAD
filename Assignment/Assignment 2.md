@@ -122,5 +122,3 @@ However, the main purpose lies in delivering stable, working software frequently
     Building through features.
 
 FDD is a constructive, arranged, centred method for the entire software workflow management and a reliable choice for software-focused teams and associations.
-
-Roll no.: 11

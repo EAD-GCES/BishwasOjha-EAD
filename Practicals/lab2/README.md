@@ -1,8 +1,12 @@
 ## Contribute to Open Source Project ##
 > 1 Sign into GitHub \
+> 
 > 2 Fork the Project Repo \
+> 
 > 3 Clone your fork (git clone url_of_fork) \
+> 
 > 4 Navigate to local repository (cd name_of_repository) \
+> 
 > 5 Check that fork is the "origin" remote (git remote -v) or (git remote add origin url_of_fork) \
 > 6 Add the original project repository as the "upstream" remote (git remote add upstream URL_OF_PROJECT) \
 > 7 Pull the latest changes from upstream into local repository \

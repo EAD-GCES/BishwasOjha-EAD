@@ -10,22 +10,21 @@
 > - Make changes in your local repository
 > - Commit your changes (git add -A) and (git commit -m "DESCRIPTION OF CHANGES")
 
-> - Push your changes to your fork (git push origin BRANCH_NAME.)
+ - Push your changes to your fork (git push origin BRANCH_NAME.)
 
-> - Begin the pull request
+ - Begin the pull request
 
-> - Create the pull request
+ - Create the pull request
 
-> - Review the pull request by owner
+ - Review the pull request by owner
 
-> - Add more commits to your pull request
+ - Add more commits to your pull request
 
-> - Discuss the pull request
+ - Discuss the pull request
 
-> - Delete your branch from your fork
+ - Delete your branch from your fork
 
-> - Delete your branch from your local repository (git checkout master) and (git branch -D or -d BRANCH_NAME)
+ - Delete your branch from your local repository (git checkout master) and (git branch -D or -d BRANCH_NAME)
 
-
-> - Synchronize your fork with the project repository (git pull upstream master in project repo) and (git push origin master in your fork)
+ - Synchronize your fork with the project repository (git pull upstream master in project repo) and (git push origin master in your fork)
 

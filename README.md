@@ -1,2 +1,3 @@
 # EAD
-This repo contains EAD materials.
+This repo contains `Enterprise Application Development(EAD)` Assignments and Practicals.
+

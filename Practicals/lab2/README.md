@@ -17,5 +17,5 @@
 > 16 Discuss the pull request \
 > 17 Delete your branch from your fork \
 > 18 Delete your branch from your local repository (git checkout master) and (git branch -D or -d BRANCH_NAME) \
-> 19 Synchronize your fork with the project repository (git pull upstream master in project repo) and (git push origin master in your fork) \
+> 19 Synchronize your fork with the project repository (git pull upstream master in project repo) and (git push origin master in your fork) 
 
